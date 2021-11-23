@@ -1,0 +1,24 @@
+.navbar{
+    background-color: aqua;
+}
+.jumbotron{
+    padding-top: 4rem;
+    background-color:#264653;
+
+}
+section{
+    padding-top: 4rem;
+    
+}
+.education{
+    background-color: #264653;
+}
+.footer{
+    background-color: #264653;
+    padding: 2rem 0;
+}
+.navbar .navbar-brand{
+    letter-spacing: 3px;
+    font-weight: bold;
+
+}
